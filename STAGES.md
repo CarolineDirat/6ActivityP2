@@ -23,3 +23,10 @@ J'enregistre les modifications.
 
 git commit -am "Modification du fichier README.txt pour présenter le projet (l'activité)"		
 
+-- -----------------------------------------------------------------------------------------------------------------------------
+
+REMARQUE :
+
+Régulièrement, on peut utiliser :
+	- la commande "git status" pour voir où en est le status de Git
+	- la commande "git log" pour voir l'historique des commits du repository
