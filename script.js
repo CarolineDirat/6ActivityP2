@@ -1,1 +1,5 @@
-alert("Salut à toi !");
+var nickname = "Mec", 
+	message = "Salut à toi " + nickname + " !";
+
+
+alert(message);
