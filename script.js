@@ -1,1 +1,1 @@
-alert("Salut à toi !")
+alert("Salut à toi !");
